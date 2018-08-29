@@ -1,6 +1,5 @@
 package com.chandler.leetcode;
 
-import edu.princeton.cs.algs4.Stack;
 
 /**
  * @author： chandler
